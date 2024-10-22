@@ -15,4 +15,4 @@ is a translator from English to Morse code.py and ACT blink( ON borad ACT led).
 
 
 ## third is Pi pico morseCode
-SOS blink in Pi pico, when connected to power.
+hardcoded"SOS".py is  hardcoded SOS blink in Pi pico, when connected to power.

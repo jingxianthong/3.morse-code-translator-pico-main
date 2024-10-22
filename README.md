@@ -4,7 +4,7 @@ NOTE: this program CANNOT hander any spacebar in text, plese input like: iloveyo
 
 
 ## first is morseCODE_ Translator.py
-is a translator only you can input Word OR morse code, it will translate.
+is a translator only you can input Morse-to-English and English-to-Morse.py, it will translate.
 
 
 
